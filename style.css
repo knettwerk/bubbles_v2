@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+}
+
+html, 
+body {
+    overflow: hidden;
+}
+
+canvas {
+    border: 1px solid black;
+}
